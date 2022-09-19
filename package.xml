@@ -19,7 +19,4 @@
   <build_export_depend>rospy</build_export_depend>
   <exec_depend>rospy</exec_depend>
 
-  <export>
-
-  </export>
 </package>
