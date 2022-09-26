@@ -3,16 +3,12 @@
   <name>hand_test</name>
   <version>0.0.0</version>
   <description>The hand_test package</description>
-  <maintainer email="ikuo@todo.todo">shge ikuo</maintainer>
+  <maintainer email="ikuo@todo.todo">Ikuo Shige</maintainer>
 
   <author email="tiryoh@gmail.com">Daisuke Sato</author>                  
   <author email="nomura@rt-net.jp">Hiroyuki Nomura</author>
 
   <license>NON-COMMERCIAL LICENSE AGREEMENT</license>
-
-  
-
-
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>rospy</build_depend>
